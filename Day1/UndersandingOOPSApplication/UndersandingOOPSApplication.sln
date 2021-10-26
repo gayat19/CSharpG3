@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UndersandingOOPSApplication", "UndersandingOOPSApplication\UndersandingOOPSApplication.csproj", "{5B5C64BE-6A7F-4759-9A99-3AF55884199F}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5C64BE-6A7F-4759-9A99-3AF55884199F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5C64BE-6A7F-4759-9A99-3AF55884199F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5C64BE-6A7F-4759-9A99-3AF55884199F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5C64BE-6A7F-4759-9A99-3AF55884199F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C36DCF-BA1A-41F5-A8DF-8A64C249ECD2}
+	EndGlobalSection
+EndGlobal

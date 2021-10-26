@@ -1,0 +1,85 @@
+Ctrl+K+C - to comment
+Ctrl+K+U - to uncomment
+ static int iStaticInt = 0;
+        int iInstanceInt = 0;
+        void IncrementNumber()
+        {
+            iStaticInt++;
+            iInstanceInt++;
+        }
+        void PrintNumbers()
+        {
+            Console.WriteLine($"The value of static number is {iStaticInt}");
+            Console.WriteLine($"The value of instance number is {iInstanceInt}");
+        }
+        //void Add(int num1,int num2)
+        //{
+        //    Console.WriteLine("The sum is  "+(num1+num2));
+        //}
+        //int Add(int num1, int num2)
+        //{
+        //    int methodScope;//local variables
+        //    return(num1 + num2);
+        //}
+        void PassByVal(int num1)
+        {
+            Console.WriteLine("Inside btval initial "+num1);
+            num1++;
+            Console.WriteLine("Inside btval after increment " + num1);
+        }
+        void PassByRef(ref int num1)
+        {
+            Console.WriteLine("Inside byRef initial " + num1);
+            num1++;
+            Console.WriteLine("Inside byRef after increment " + num1);
+        }
+
+ //int sum = p1.Add(10, 20);
+            //int num = 100;
+            //Console.WriteLine("The value that is passed before passing "+num);
+            //p1.PassByVal(num);
+            //Console.WriteLine("The value that is passed after passing " + num);
+            //Console.WriteLine("The value that is passed before passing by ref " + num);
+            //p1.PassByRef(ref num);
+            //Console.WriteLine("The value that is passed after passing by ref" + num);
+            //Console.WriteLine("The sum is "+sum);
+            //Console.WriteLine("Initial before p1 increment");
+            //p1.PrintNumbers();
+            //Console.WriteLine("After p1 increment");
+            //p1.IncrementNumber();
+            //p1.PrintNumbers();
+            //Program p2 = new Program();
+            //Console.WriteLine("Initial before p2 increment");
+            //p2.PrintNumbers();
+            //Console.WriteLine("After p2 increment");
+            //p2.IncrementNumber();
+            //p2.PrintNumbers();
+
+IDE
+  Code
+  Design
+  Test
+  Deploy
+
+C3 Types
+  Value 
+  Ref
+
+string -> ref
+int -> value
+
+Statements
+   Sequence
+   Selection
+   Iteration
+
+Method ->
+   no ret no para
+   retun no para
+   no ret para
+   para and return
+
+Polymorphism
+   Overloading -> changing the number of args/order of args/datatype of args
+
+Exception

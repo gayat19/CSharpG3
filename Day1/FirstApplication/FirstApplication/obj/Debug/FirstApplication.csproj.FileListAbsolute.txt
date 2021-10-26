@@ -1,0 +1,7 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb

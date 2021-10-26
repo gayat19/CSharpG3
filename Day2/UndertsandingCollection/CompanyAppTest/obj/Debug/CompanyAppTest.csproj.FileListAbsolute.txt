@@ -1,0 +1,16 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\CompanyAppTest.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\CompanyAppTest.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\CompanyLibrary.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\CompanyLibrary.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\obj\Debug\CompanyAppTest.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\obj\Debug\CompanyAppTest.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\obj\Debug\CompanyAppTest.csproj.CopyComplete
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\obj\Debug\CompanyAppTest.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyAppTest\obj\Debug\CompanyAppTest.pdb

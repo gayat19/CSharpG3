@@ -1,0 +1,7 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\bin\Debug\UnderstandingStrutsAndClass.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\bin\Debug\UnderstandingStrutsAndClass.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\bin\Debug\UnderstandingStrutsAndClass.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\obj\Debug\UnderstandingStrutsAndClass.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\obj\Debug\UnderstandingStrutsAndClass.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\obj\Debug\UnderstandingStrutsAndClass.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingStrutsAndClass\UnderstandingStrutsAndClass\obj\Debug\UnderstandingStrutsAndClass.pdb

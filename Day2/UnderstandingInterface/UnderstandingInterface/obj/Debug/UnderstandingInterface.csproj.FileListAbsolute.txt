@@ -1,0 +1,6 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingInterface\UnderstandingInterface\bin\Debug\UnderstandingInterface.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingInterface\UnderstandingInterface\bin\Debug\UnderstandingInterface.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingInterface\UnderstandingInterface\bin\Debug\UnderstandingInterface.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UnderstandingInterface\UnderstandingInterface\obj\Debug\UnderstandingInterface.pdb

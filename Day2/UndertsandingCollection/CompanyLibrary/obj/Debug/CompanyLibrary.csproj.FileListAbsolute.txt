@@ -1,0 +1,5 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyLibrary\bin\Debug\CompanyLibrary.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyLibrary\bin\Debug\CompanyLibrary.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyLibrary\obj\Debug\CompanyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyLibrary\obj\Debug\CompanyLibrary.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\CompanyLibrary\obj\Debug\CompanyLibrary.pdb

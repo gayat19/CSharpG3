@@ -1,0 +1,7 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\bin\Debug\UndersatndingDelegateApplication.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\bin\Debug\UndersatndingDelegateApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\bin\Debug\UndersatndingDelegateApplication.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\obj\Debug\UndersatndingDelegateApplication.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\obj\Debug\UndersatndingDelegateApplication.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\obj\Debug\UndersatndingDelegateApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndersatndingDelegateApplication\UndersatndingDelegateApplication\obj\Debug\UndersatndingDelegateApplication.pdb

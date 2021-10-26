@@ -1,0 +1,10 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\bin\Debug\UndertsandingCollection.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\bin\Debug\UndertsandingCollection.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\bin\Debug\UndertsandingCollection.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\bin\Debug\CompanyLibrary.dll
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\bin\Debug\CompanyLibrary.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\obj\Debug\UndertsandingCollection.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\obj\Debug\UndertsandingCollection.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\obj\Debug\UndertsandingCollection.csproj.CopyComplete
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\obj\Debug\UndertsandingCollection.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\UndertsandingCollection\UndertsandingCollection\obj\Debug\UndertsandingCollection.pdb

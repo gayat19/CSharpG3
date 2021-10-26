@@ -1,0 +1,32 @@
+Employee
+   Id
+   Name
+   Age
+
+Strut
+
+Create a classlib -> Employee
+Create a FE -> Console app -> use the employee class
+create WPF -> reff to teh same dll
+
+Array
+   Fixed size while declaration
+   Same data structure
+
+Collection
+   Dynamic in size
+   can have varid data structures
+List
+Stack
+QUeue
+HashTable
+
+LINQ
+
+Delegate
+   
+
+
+<button onClick="createEmployee()">Create</button>
+
+

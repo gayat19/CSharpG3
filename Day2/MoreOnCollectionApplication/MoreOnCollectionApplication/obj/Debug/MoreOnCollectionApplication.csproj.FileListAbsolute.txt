@@ -1,0 +1,7 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\bin\Debug\MoreOnCollectionApplication.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\bin\Debug\MoreOnCollectionApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\bin\Debug\MoreOnCollectionApplication.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\obj\Debug\MoreOnCollectionApplication.csprojAssemblyReference.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\obj\Debug\MoreOnCollectionApplication.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\obj\Debug\MoreOnCollectionApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day2\MoreOnCollectionApplication\MoreOnCollectionApplication\obj\Debug\MoreOnCollectionApplication.pdb

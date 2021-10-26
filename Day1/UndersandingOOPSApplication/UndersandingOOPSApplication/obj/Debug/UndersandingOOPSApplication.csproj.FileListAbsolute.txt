@@ -1,0 +1,7 @@
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\bin\Debug\UndersandingOOPSApplication.exe.config
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\bin\Debug\UndersandingOOPSApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\bin\Debug\UndersandingOOPSApplication.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\obj\Debug\UndersandingOOPSApplication.csproj.CoreCompileInputs.cache
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\obj\Debug\UndersandingOOPSApplication.exe
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\obj\Debug\UndersandingOOPSApplication.pdb
+C:\Users\gayat\OneDrive\Desktop\Daily\Day1\UndersandingOOPSApplication\UndersandingOOPSApplication\obj\Debug\UndersandingOOPSApplication.csprojAssemblyReference.cache
