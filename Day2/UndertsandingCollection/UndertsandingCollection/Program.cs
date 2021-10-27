@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CompanyLibrary;
 using System.Collections;
+using System.IO;
 
 namespace UndertsandingCollection
 {
@@ -26,17 +27,29 @@ namespace UndertsandingCollection
                 if (result == "no")
                     break;
                 Employee employee = new Employee();
-                employee.TakeEmployeeData();
-                employees.Add(employee);
+                try
+                {
+                    employee.TakeEmployeeData();
+                    employees.Add(employee);
+                }
+                catch (InvalidAgeException invalidAgeException)
+                {
+                    Console.WriteLine(invalidAgeException.Message);
+                }
+                
                 //employees.Add(10);
             } while (true);
         }
         void PrintEmployees()
         {
-            employees.Sort();
-            foreach (var item in employees)
+            //employees.Sort();
+            var ageSortedEmployees = employees.Where(emp=>emp.Age>45).OrderBy(emp => emp.Age);
+            
+           
+            foreach (var item in ageSortedEmployees)
             {
-                item.PrintEmployeeDetails();//Explicit casting
+                //item.PrintEmployeeDetails();//Explicit casting
+                Console.WriteLine(item);
             }
         }
         static void Main(string[] args)

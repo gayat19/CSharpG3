@@ -11,6 +11,9 @@ namespace CompanyLibrary
         public int Id { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
+        /// <summary>
+        ///Expected Exceptions: InvalidAge Exception
+        /// </summary>
         public void TakeEmployeeData()
         {
             int id, age;
@@ -27,11 +30,17 @@ namespace CompanyLibrary
             {
                 Console.WriteLine("Invalid ID. Please enter age again");
             }
+            if (age < 18 || age > 56)
+                throw new InvalidAgeException(age);
             Age = age;
         }
         public void PrintEmployeeDetails()
         {
             Console.WriteLine("Employee ID "+Id+"\nEmployee Name "+Name+"\nEmployee Age "+Age);
+        }
+        public override string ToString()
+        {
+            return "Employee ID " + Id + "\nEmployee Name " + Name + "\nEmployee Age " + Age;
         }
         public int GetNumber() {
             return new Random().Next();
