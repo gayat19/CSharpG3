@@ -1,0 +1,20 @@
+Web Service -> SOAP  
+   XML
+
+WCF
+  A - Address
+  B - Binding
+  C - Contract
+RESTful Service -> Stateless, httpMethods, http, Chaching
+Employee
+C - http POST
+R - http GET
+U - http PUT
+D - http DELETE
+http://www.amazon.com/products - GET - get all the products
+http://www.amazon.com/products/101 - GET - get one product with ID 101
+http://www.amazon.com/products - POST - with the body of the product to be added - add teh product
+http://www.amazon.com/products/101 - PUT -with the body of the product to be modified- Edits one product with ID 101
+http://www.amazon.com/products/101 - DELETE - deletes one product with ID 101
+
+

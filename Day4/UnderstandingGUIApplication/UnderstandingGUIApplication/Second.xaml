@@ -1,0 +1,23 @@
+﻿<Window x:Class="UnderstandingGUIApplication.Second"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UnderstandingGUIApplication"
+        mc:Ignorable="d"
+        Title="Second" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="258" Margin="10,0,0,0" VerticalAlignment="Top" Width="783">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <RadioButton x:Name="rdbMale" Checked="RdbMale_Checked" Content="Male" HorizontalAlignment="Left" Margin="117,52,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="rdbFemale" Checked="RdbFemale_Checked" Content="Female" HorizontalAlignment="Left" Margin="117,121,0,0" VerticalAlignment="Top"/>
+            <ComboBox x:Name="cmbData" Grid.Column="2" HorizontalAlignment="Left" Margin="116,67,0,0" VerticalAlignment="Top" Width="120"/>
+            <local:CustomEmployeeControl x:Name="myControl" Grid.Column="1"></local:CustomEmployeeControl>
+        </Grid>
+
+    </Grid>
+</Window>
